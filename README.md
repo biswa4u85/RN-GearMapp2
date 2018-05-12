@@ -18,5 +18,5 @@ npm install
 and
 
 ```
-http://192.168.0.1:19001
+react-native run-ios
 ```
