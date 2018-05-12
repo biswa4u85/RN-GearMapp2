@@ -12,13 +12,7 @@ This is GearMapp2 App
 
 #Commends
 ```
-exp://192.168.0.1:19000
-```
-
-Try opening Safari or Chrome on your phone and loading
-
-```
-http://192.168.0.1:19000
+npm install
 ```
 
 and
